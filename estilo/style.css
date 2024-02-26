@@ -7,12 +7,12 @@ font-weight: normal;
 }
 
 :root{
---cor0: #c5ebd6;
---cor1: #83e1ad;
---cor2: #3ddc84;
---cor3: #2fa866;
---cor4: #1a5c37;
---cor5: #063d1e;
+--cor0: #E123FC;
+--cor1: #FC232B;
+--cor2: #FC23AD;
+--cor3: #9A23FC;
+--cor4: #FC4723;
+--cor5: #FF59C1;
 
 --font-padrao: Arial, Verdana, Helvetica, sans-serif;
 --font-destaque: 'Bebas Neue', cursive;
